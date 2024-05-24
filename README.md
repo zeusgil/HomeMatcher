@@ -3,7 +3,7 @@
 This repository contains modules for generating, searching, and personalizing home listings based on buyer preferences. The main entry point is the `home_matcher.py` script, which orchestrates the entire process.
 
 jupyter notebook in scripts/home_matcher.ipynb
-If you wish to run this repository using Jupyter Notebook, please refer to the following link: [Home Matcher](scripts/home_matcher.ipynb)
+If you wish to run this repository using Jupyter Notebook, please refer to the following link: [Home Matcher]([scripts/home_matcher.ipynb](https://github.com/zeusgil/HomeMatcher/blob/main/Homematch/scripts/home_matcher.ipynb))
 
 ## Modules
 
