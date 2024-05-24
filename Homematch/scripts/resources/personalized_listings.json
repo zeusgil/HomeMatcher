@@ -1,0 +1,47 @@
+[
+    {
+        "neighborhood": "Cedar Park",
+        "price": "$780,000",
+        "bedrooms": 4.0,
+        "bathrooms": 3.0,
+        "house_size": "2,300 sqft",
+        "description": "Beautiful 4-bedroom, 3-bathroom home in the Cedar Park neighborhood. This home features an open floor plan with a spacious living room, a modern kitchen with quartz countertops, and a dining area that opens to a large deck. The master suite includes a walk-in closet and a luxurious bathroom with a soaking tub. The finished basement offers additional living space and a home office. Neighborhood Description: Cedar Park is a family-friendly community with excellent schools, parks, and recreational facilities. Enjoy hiking and biking trails, community events, and easy access to shopping and dining.",
+        "augmented_description": "Beautiful 4-bedroom, 3-bathroom home in the Cedar Park neighborhood. This home features an open floor plan with a spacious living room, a modern kitchen with quartz countertops, and a dining area that opens to a large deck. The master suite includes a walk-in closet and a luxurious bathroom with a soaking tub. The finished basement offers additional living space and a home office. Cedar Park is a family-friendly community with excellent schools and parks, making it an ideal location for families. Enjoy hiking and biking trails, community events, and easy access to shopping and dining. The neighborhood's recreational facilities and great schools make it perfect for raising a family."
+    },
+    {
+        "neighborhood": "Riverside",
+        "price": "$600,000",
+        "bedrooms": 3.0,
+        "bathrooms": 2.0,
+        "house_size": "1,900 sqft",
+        "description": "Beautiful 3-bedroom, 2-bathroom home in the Riverside neighborhood. This home features a spacious living room with vaulted ceilings, a modern kitchen with quartz countertops, and a dining area that opens to a large backyard. The master bedroom has an en-suite bathroom and a walk-in closet. The backyard is perfect for entertaining with a patio and a garden. Neighborhood Description: Riverside is a family-friendly community with excellent schools, parks, and recreational facilities. Enjoy a walk along the Riverside Trail or visit the Riverside Community Center for various activities. The neighborhood is also conveniently located near shopping centers and major highways.",
+        "augmented_description": "Beautiful 3-bedroom, 2-bathroom home in the Riverside neighborhood. This spacious home features a living room with vaulted ceilings, perfect for family gatherings. The modern kitchen with quartz countertops and a dining area that opens to a large backyard make it ideal for entertaining. The master bedroom includes an en-suite bathroom and a walk-in closet for added convenience. The backyard, with its patio and garden, offers ample space for outdoor activities. Riverside is a family-friendly community known for its excellent schools and parks, providing a great environment for children. Enjoy a walk along the Riverside Trail or visit the Riverside Community Center for various activities. The neighborhood is also conveniently located near shopping centers and major highways."
+    },
+    {
+        "neighborhood": "Riverside",
+        "price": "$850,000",
+        "bedrooms": 4.0,
+        "bathrooms": 3.0,
+        "house_size": "2,300 sqft",
+        "description": "This beautiful 4-bedroom, 3-bathroom home in Riverside offers a perfect blend of comfort and style. The open-concept living area features a modern kitchen with quartz countertops, stainless steel appliances, and a large island. The master suite includes a walk-in closet and a luxurious bathroom with dual vanities and a soaking tub. The backyard is an entertainer's dream with a covered patio, a built-in BBQ, and a fire pit. Neighborhood Description: Riverside is a vibrant community with a variety of amenities, including parks, recreational facilities, and top-rated schools. The neighborhood is conveniently located near shopping centers, restaurants, and major highways, making it an ideal place to call home.",
+        "augmented_description": "This beautiful 4-bedroom, 3-bathroom home in Riverside offers a perfect blend of comfort and style, ideal for families. The open-concept living area features a modern kitchen with quartz countertops, stainless steel appliances, and a large island, perfect for family gatherings. The master suite includes a walk-in closet and a luxurious bathroom with dual vanities and a soaking tub, providing a private retreat. The backyard is an entertainer's dream with a covered patio, a built-in BBQ, and a fire pit, offering ample space for outdoor activities. Riverside is a vibrant community with top-rated schools and a variety of parks, making it an ideal place for families. The neighborhood is conveniently located near shopping centers, restaurants, and major highways, ensuring easy access to all amenities."
+    },
+    {
+        "neighborhood": "Lakeside",
+        "price": "$1,200,000",
+        "bedrooms": 5.0,
+        "bathrooms": 4.0,
+        "house_size": "3,200 sqft",
+        "description": "Luxurious 5-bedroom, 4-bathroom home in the prestigious Lakeside community. This home features a grand foyer, a formal living room, and a family room with a fireplace. The gourmet kitchen has custom cabinetry, a large island, and top-of-the-line appliances. The master suite includes a sitting area, a walk-in closet, and a spa-like bathroom. The backyard offers a covered patio, a built-in BBQ, and a beautiful garden. Neighborhood Description: Lakeside is an upscale community with a private lake, walking trails, and exclusive amenities. Residents enjoy access to a clubhouse, a swimming pool, and tennis courts. The neighborhood is also close to top-rated schools, shopping centers, and fine dining restaurants.",
+        "augmented_description": ""
+    },
+    {
+        "neighborhood": "Lakeside",
+        "price": "$950,000",
+        "bedrooms": 5.0,
+        "bathrooms": 4.0,
+        "house_size": "4,200 sqft",
+        "description": "Luxurious 5-bedroom, 4-bathroom home in the prestigious Lakeside neighborhood. This home features a grand entrance with a sweeping staircase, a formal living room, and a dining room. The gourmet kitchen includes custom cabinetry, granite countertops, and a breakfast nook. The master suite offers a private balcony with lake views, a spa-like bathroom, and a walk-in closet. The backyard includes a covered patio, a pool, and a landscaped garden. Neighborhood Description: Lakeside is an upscale community with beautiful lake views and access to private parks and walking trails. The neighborhood is known for its excellent schools and close-knit community. Enjoy fine dining and shopping at the nearby Lakeside Village.",
+        "augmented_description": "Luxurious 5-bedroom, 4-bathroom home in the prestigious Lakeside neighborhood. This spacious home is perfect for families, featuring a grand entrance with a sweeping staircase, a formal living room, and a dining room. The gourmet kitchen includes custom cabinetry, granite countertops, and a breakfast nook, ideal for family gatherings. The master suite offers a private balcony with lake views, a spa-like bathroom, and a walk-in closet. The backyard is a family oasis with a covered patio, a large swimming pool, and a landscaped garden, perfect for outdoor activities and relaxation. Lakeside is an upscale community known for its excellent schools and access to private parks and walking trails, making it an ideal location for families. Enjoy fine dining and shopping at the nearby Lakeside Village."
+    }
+]

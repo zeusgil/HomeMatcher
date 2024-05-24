@@ -1,0 +1,18 @@
+[dev-packages]
+asynctest = "==0.13.0"
+pytest = ">=7,<8"
+pytest-aiohttp = "==1.0.4"
+pytest-asyncio = "*"
+requests_mock = "==1.12.1"
+[packages]
+openai = "==0.28.0"
+tiktoken = "==0.6.0"
+tqdm = "==4.66.4"
+packages = "*"
+langchain = "==0.0.305"
+chromadb = "==0.4.15"
+pydantic-settings = "==2.2.1"
+jupyter = "==1.0.0"
+
+[requires]
+python_version = "3.10"
